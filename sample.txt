@@ -1,5 +1,2 @@
 hi welcome to GIT	
-hello gitbye git
-kellytechnologies
-i am jaipal reddy
-hyderabad
+

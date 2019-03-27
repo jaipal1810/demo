@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 welcome to Devops
 hello gitbye git
 kellytechnologies
 hai
 hi welcome to GIT	
 
+=======
+hi welcome to GIT	
+welcome to Devops
+hello gitbye git
+kellytechnologies
+abcdefghijklmno
+>>>>>>> master

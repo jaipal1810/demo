@@ -1,0 +1,5 @@
+
+exit
+[A[A[A[A[A[B[C[C[C[C[C[C[C[C[C[C[C >test.txt
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D 
+[A[C[C[C[C[C[[C[C[C[C[C[C[C[C[[B[A[A$ cat >test.txt

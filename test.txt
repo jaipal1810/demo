@@ -2,3 +2,4 @@ welcome to devops
 hii
 hello
 exit
+bye
